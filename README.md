@@ -169,4 +169,3 @@ Communication between the GUI and Arduino is handled via a custom 4-byte (PC to 
 
 ---
 
-Would you like me to add a **table of contents with collapsible sections** and **syntax highlighting for code snippets** to make it more GitHub-styled and easier to navigate?
